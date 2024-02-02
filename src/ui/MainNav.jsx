@@ -5,7 +5,6 @@ import { HiOutlineRocketLaunch, HiOutlineUser } from "react-icons/hi2";
 import { LuLayoutDashboard } from "react-icons/lu";
 
 const NavList = styled.ul`
-  /* margin-top: 5rem; */
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
@@ -31,7 +30,7 @@ const StyledNavLink = styled(NavLink)`
   &.active:link,
   &.active:visited {
     color: var(--color-grey-800);
-    background-color: var(--color-grey-50);
+    background-color: var(--color-brand-50);
     border-radius: var(--border-radius-sm);
   }
 

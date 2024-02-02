@@ -21,8 +21,8 @@ const ButtonBox = styled.div`
 `;
 
 function LoginForm() {
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
+  const [email, setEmail] = useState("annas@pathfinder.com");
+  const [password, setPassword] = useState("demo1234");
   const { login, isLoading } = useLogin();
   const navigate = useNavigate();
 

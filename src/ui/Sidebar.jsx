@@ -5,7 +5,7 @@ import MainNav from "./MainNav";
 
 const StyledSidebar = styled.aside`
   background-color: var(--color-grey-0);
-  padding: 7rem 2.4rem;
+  padding: 5rem 2.4rem;
   border-right: 1px solid var(--color-grey-100);
 
   grid-row: 1 / -1;
@@ -15,8 +15,6 @@ const StyledSidebar = styled.aside`
 `;
 
 const LogoContainer = styled.div`
-  padding-top: 3rem;
-  padding-bottom: 4rem;
   display: flex;
   align-items: center;
   justify-content: center;

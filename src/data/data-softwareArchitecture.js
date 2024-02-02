@@ -5,24 +5,24 @@ export const softwareArchitectureRoadmap = [
       "Software architecture in software engineering refers to the high-level structure and organization of a software system. It defines the system's components or modules, their relationships, and how they interact to achieve the desired functionality and quality attributes. Software architecture provides a blueprint for designing, building, and maintaining complex software systems.",
     details: [
       {
-        Topic: "What is Software Architecture?",
-        Description:
+        topic: "What is Software Architecture?",
+        description:
           "An article explaining the concept of software architecture and its importance in software engineering.",
-        Resource:
+        resource:
           "https://webcache.googleusercontent.com/search?q=cache:ya4xvYaEckQJ:https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/&cd=1&hl=es-419&ct=clnk&gl=ar",
       },
       {
-        Topic: "Introduction to Software Architecture Patterns",
-        Description:
+        topic: "Introduction to Software Architecture Patterns",
+        description:
           "An introduction to common software architecture patterns and their use in designing software systems.",
-        Resource:
+        resource:
           "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/",
       },
       {
-        Topic: "Software Architecture: It might not be what you think it is",
-        Description:
+        topic: "Software Architecture: It might not be what you think it is",
+        description:
           "An article discussing the misconceptions and realities of software architecture in modern software development.",
-        Resource: "https://www.infoq.com/articles/what-software-architecture/",
+        resource: "https://www.infoq.com/articles/what-software-architecture/",
       },
     ],
   },
@@ -33,80 +33,80 @@ export const softwareArchitectureRoadmap = [
       "Software architects play a crucial role in designing and overseeing the development of complex software systems. They need a diverse set of skills to excel in their role, from technical expertise to communication and leadership abilities.",
     details: [
       {
-        Topic: "Technical Proficiency",
-        Description:
+        topic: "Technical Proficiency",
+        description:
           "Software architects must have a deep understanding of programming languages, software design patterns, and development frameworks.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#technical-proficiency",
       },
       {
-        Topic: "Problem-Solving",
-        Description:
+        topic: "Problem-Solving",
+        description:
           "Architects are often tasked with solving complex technical challenges, so strong problem-solving skills are essential.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#problem-solving",
       },
       {
-        Topic: "System Design",
-        Description:
+        topic: "System Design",
+        description:
           "Architects need to create high-level system designs that meet project requirements and align with organizational goals.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#system-design",
       },
       {
-        Topic: "Communication",
-        Description:
+        topic: "Communication",
+        description:
           "Effective communication is vital for collaborating with development teams and conveying architectural decisions.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#communication",
       },
       {
-        Topic: "Leadership",
-        Description:
+        topic: "Leadership",
+        description:
           "Architects often lead development teams, so leadership and team management skills are valuable.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#leadership",
       },
       {
-        Topic: "Adaptability",
-        Description:
+        topic: "Adaptability",
+        description:
           "The software landscape is constantly evolving, so architects must stay adaptable and open to new technologies.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#adaptability",
       },
       {
-        Topic: "Security Awareness",
-        Description:
+        topic: "Security Awareness",
+        description:
           "Architects should be aware of security best practices to design secure systems and protect against threats.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#security-awareness",
       },
       {
-        Topic: "Testing and Quality Assurance",
-        Description:
+        topic: "Testing and Quality Assurance",
+        description:
           "Ensuring software quality through testing and QA processes is part of the architect's responsibility.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#testing-and-quality-assurance",
       },
       {
-        Topic: "Cloud and DevOps",
-        Description:
+        topic: "Cloud and DevOps",
+        description:
           "Knowledge of cloud technologies and DevOps practices is increasingly important in modern software architecture.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#cloud-and-devops",
       },
       {
-        Topic: "Business Acumen",
-        Description:
+        topic: "Business Acumen",
+        description:
           "Understanding business goals and aligning software architecture with them is key to success.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#business-acumen",
       },
       {
-        Topic: "Project Management",
-        Description:
+        topic: "Project Management",
+        description:
           "Architects often manage project timelines and resources, so project management skills are beneficial.",
-        Resource:
+        resource:
           "https://www.redhat.com/architect/what-is-software-architect#project-management",
       },
     ],
@@ -117,64 +117,64 @@ export const softwareArchitectureRoadmap = [
       "The product development process involves a series of steps to create and bring a new product to the market. This process is crucial for businesses to design, produce, and market products successfully.",
     details: [
       {
-        Topic: "Design",
-        Description:
+        topic: "Design",
+        description:
           "The initial stage where product concepts and ideas are generated and transformed into design specifications.",
-        Resource: "https://example.com/design",
+        resource: "https://example.com/design",
       },
       {
-        Topic: "Decide",
-        Description:
+        topic: "Decide",
+        description:
           "The decision-making phase where the project's feasibility and potential risks are assessed.",
-        Resource: "https://example.com/decide",
+        resource: "https://example.com/decide",
       },
       {
-        Topic: "Simplify",
-        Description:
+        topic: "Simplify",
+        description:
           "Simplification involves streamlining the design and functionality of the product for efficiency and user-friendliness.",
-        Resource: "https://example.com/simplify",
+        resource: "https://example.com/simplify",
       },
       {
-        Topic: "Code",
-        Description:
+        topic: "Code",
+        description:
           "The actual development of the product's software or hardware components.",
-        Resource: "https://example.com/code",
+        resource: "https://example.com/code",
       },
       {
-        Topic: "Document",
-        Description:
+        topic: "Document",
+        description:
           "Creating comprehensive documentation for the product, including user manuals and technical guides.",
-        Resource: "https://example.com/document",
+        resource: "https://example.com/document",
       },
       {
-        Topic: "Communicate",
-        Description:
+        topic: "Communicate",
+        description:
           "Effective communication within the development team and with stakeholders is crucial for success.",
-        Resource: "https://example.com/communicate",
+        resource: "https://example.com/communicate",
       },
       {
-        Topic: "Estimate",
-        Description:
+        topic: "Estimate",
+        description:
           "Project estimation involves forecasting the time and resources required for development.",
-        Resource: "https://example.com/estimate",
+        resource: "https://example.com/estimate",
       },
       {
-        Topic: "Balance",
-        Description:
+        topic: "Balance",
+        description:
           "Balancing various aspects, such as cost, quality, and time, to meet project goals.",
-        Resource: "https://example.com/balance",
+        resource: "https://example.com/balance",
       },
       {
-        Topic: "Consult",
-        Description:
+        topic: "Consult",
+        description:
           "Seeking expert advice or consulting with relevant parties to make informed decisions.",
-        Resource: "https://example.com/consult",
+        resource: "https://example.com/consult",
       },
       {
-        Topic: "Market",
-        Description:
+        topic: "Market",
+        description:
           "Developing marketing strategies and plans to launch the product successfully in the market.",
-        Resource: "https://example.com/market",
+        resource: "https://example.com/market",
       },
     ],
   },
@@ -185,40 +185,40 @@ export const softwareArchitectureRoadmap = [
       "Python is a versatile and popular programming language known for its simplicity and readability. It is widely used in various domains, including web development, data analysis, scientific computing, and automation.",
     details: [
       {
-        Topic: "Python Official Website",
-        Description:
+        topic: "Python Official Website",
+        description:
           "The official website of Python, where you can find documentation, downloads, and news related to the language.",
-        Resource: "https://www.python.org/",
+        resource: "https://www.python.org/",
       },
       {
-        Topic: "Getting Started with Python",
-        Description:
+        topic: "Getting Started with Python",
+        description:
           "An introductory guide on how to get started with Python programming, available on the Python website.",
-        Resource: "https://www.python.org/about/gettingstarted/",
+        resource: "https://www.python.org/about/gettingstarted/",
       },
       {
-        Topic: "Automate the Boring Stuff with Python",
-        Description:
+        topic: "Automate the Boring Stuff with Python",
+        description:
           "A popular online resource and book that teaches Python programming through practical examples for automating everyday tasks.",
-        Resource: "https://automatetheboringstuff.com/",
+        resource: "https://automatetheboringstuff.com/",
       },
       {
-        Topic: "W3Schools Python Tutorial",
-        Description:
+        topic: "W3Schools Python Tutorial",
+        description:
           "W3Schools provides a comprehensive Python tutorial covering various aspects of the language, from basics to advanced topics.",
-        Resource: "https://www.w3schools.com/python/",
+        resource: "https://www.w3schools.com/python/",
       },
       {
-        Topic: "Python Crash Course",
-        Description:
+        topic: "Python Crash Course",
+        description:
           "An online book by Eric Matthes that offers a hands-on approach to learning Python, suitable for beginners.",
-        Resource: "https://ehmatthes.github.io/pcc/",
+        resource: "https://ehmatthes.github.io/pcc/",
       },
       {
-        Topic: "Codecademy - Learn Python 3",
-        Description:
+        topic: "Codecademy - Learn Python 3",
+        description:
           "Codecademy offers an interactive Python course for beginners to learn Python 3 through coding exercises and projects.",
-        Resource: "https://www.codecademy.com/learn/learn-python-3",
+        resource: "https://www.codecademy.com/learn/learn-python-3",
       },
     ],
   },
@@ -229,21 +229,21 @@ export const softwareArchitectureRoadmap = [
       "Object-Oriented Programming is a programming paradigm that uses objects and classes to model real-world entities and their interactions in software development.",
     details: [
       {
-        Topic: "OOP Concepts and Principles",
-        Description: "An overview of fundamental OOP concepts and principles.",
-        Resource: "#",
+        topic: "OOP Concepts and Principles",
+        description: "An overview of fundamental OOP concepts and principles.",
+        resource: "#",
       },
       {
-        Topic: "Object-Oriented Programming in Python",
-        Description:
+        topic: "Object-Oriented Programming in Python",
+        description:
           "A guide to implementing OOP in Python with code examples.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "OOP in Java",
-        Description:
+        topic: "OOP in Java",
+        description:
           "A resource for learning Object-Oriented Programming in the Java programming language.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -253,22 +253,22 @@ export const softwareArchitectureRoadmap = [
       "These are design patterns used in software engineering to separate the concerns of an application's Model, View, and Controller (or Presenter) components.",
     details: [
       {
-        Topic: "MVC Pattern",
-        Description:
+        topic: "MVC Pattern",
+        description:
           "An in-depth explanation of the Model-View-Controller design pattern.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "MVP Pattern",
-        Description:
+        topic: "MVP Pattern",
+        description:
           "An overview of the Model-View-Presenter design pattern and its implementation.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "MVVM Pattern",
-        Description:
+        topic: "MVVM Pattern",
+        description:
           "An introduction to the Model-View-ViewModel design pattern commonly used in modern application development.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -278,16 +278,16 @@ export const softwareArchitectureRoadmap = [
       "CQRS (Command Query Responsibility Segregation) is a design pattern used in distributed systems. Eventual consistency is a concept in distributed databases.",
     details: [
       {
-        Topic: "CQRS Explained",
-        Description:
+        topic: "CQRS Explained",
+        description:
           "An explanation of the CQRS pattern and its benefits in distributed systems.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Eventual Consistency in Distributed Databases",
-        Description:
+        topic: "Eventual Consistency in Distributed Databases",
+        description:
           "A discussion of the concept of eventual consistency in distributed database systems.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -297,16 +297,16 @@ export const softwareArchitectureRoadmap = [
       "Actors are a model for managing concurrent computations. They are used in concurrent and distributed systems to handle communication between components.",
     details: [
       {
-        Topic: "Actor Model Overview",
-        Description:
+        topic: "Actor Model Overview",
+        description:
           "An introduction to the Actor model and its role in concurrent programming.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Akka Toolkit for Actors",
-        Description:
+        topic: "Akka Toolkit for Actors",
+        description:
           "Information about the Akka toolkit for building scalable and resilient actor-based systems.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -316,16 +316,16 @@ export const softwareArchitectureRoadmap = [
       "ACID (Atomicity, Consistency, Isolation, Durability) and CAP (Consistency, Availability, Partition Tolerance) are concepts in distributed databases and systems.",
     details: [
       {
-        Topic: "ACID Properties in Database Systems",
-        Description:
+        topic: "ACID Properties in Database Systems",
+        description:
           "An explanation of the ACID properties and their significance in database transactions.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Understanding the CAP Theorem",
-        Description:
+        topic: "Understanding the CAP Theorem",
+        description:
           "A discussion of the CAP theorem and its implications in distributed systems.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -335,16 +335,16 @@ export const softwareArchitectureRoadmap = [
       "SOLID is an acronym representing a set of principles for writing maintainable and scalable software.",
     details: [
       {
-        Topic: "SOLID Principles Overview",
-        Description:
+        topic: "SOLID Principles Overview",
+        description:
           "An introduction to the SOLID principles and their importance in software design.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Applying SOLID Principles in Object-Oriented Design",
-        Description:
+        topic: "Applying SOLID Principles in Object-Oriented Design",
+        description:
           "Guidance on applying the SOLID principles in object-oriented software design.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -354,16 +354,16 @@ export const softwareArchitectureRoadmap = [
       "DDD is an approach to software development that focuses on understanding and modeling the domain of the application.",
     details: [
       {
-        Topic: "Introduction to Domain-Driven Design",
-        Description:
+        topic: "Introduction to Domain-Driven Design",
+        description:
           "An overview of the key concepts and principles of Domain-Driven Design.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "DDD Patterns and Best Practices",
-        Description:
+        topic: "DDD Patterns and Best Practices",
+        description:
           "Guidance on applying DDD patterns and best practices in software projects.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -373,16 +373,16 @@ export const softwareArchitectureRoadmap = [
       "TDD is a software development methodology that emphasizes writing tests before writing code to ensure code quality.",
     details: [
       {
-        Topic: "Getting Started with Test-Driven Development",
-        Description:
+        topic: "Getting Started with Test-Driven Development",
+        description:
           "A beginner's guide to practicing Test-Driven Development (TDD) in software development.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "TDD Best Practices",
-        Description:
+        topic: "TDD Best Practices",
+        description:
           "Best practices and tips for effective Test-Driven Development.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -392,34 +392,34 @@ export const softwareArchitectureRoadmap = [
       "Git is a widely used distributed version control system (DVCS) that allows multiple developers to collaborate on projects efficiently. It helps track changes in source code and facilitates code management.",
     details: [
       {
-        Topic: "Git Documentation",
-        Description:
+        topic: "Git Documentation",
+        description:
           "Official documentation for Git, including tutorials, guides, and references.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "GitHub",
-        Description:
+        topic: "GitHub",
+        description:
           "A web-based platform for hosting Git repositories and collaborating with others on software projects.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "GitLab",
-        Description:
+        topic: "GitLab",
+        description:
           "A web-based Git repository manager that provides source code management (SCM), continuous integration, and more.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Bitbucket",
-        Description:
+        topic: "Bitbucket",
+        description:
           "A Git and Mercurial code repository management platform with features like Jira integration and continuous delivery.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Git Cheat Sheet",
-        Description:
+        topic: "Git Cheat Sheet",
+        description:
           "A concise reference sheet with common Git commands and their usage.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -429,28 +429,28 @@ export const softwareArchitectureRoadmap = [
       "Slack is a popular team collaboration platform that offers messaging, file sharing, and integrations with various tools. It's designed to streamline communication within teams and organizations.",
     details: [
       {
-        Topic: "Slack Official Website",
-        Description:
+        topic: "Slack Official Website",
+        description:
           "The official website of Slack, where you can learn more about its features and sign up for an account.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Slack Help Center",
-        Description:
+        topic: "Slack Help Center",
+        description:
           "A resource for getting help with using Slack, including FAQs and user guides.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Slack App Directory",
-        Description:
+        topic: "Slack App Directory",
+        description:
           "Explore and discover apps and integrations that can enhance your Slack experience.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Slack Tips and Tricks",
-        Description:
+        topic: "Slack Tips and Tricks",
+        description:
           "A collection of tips and tricks for using Slack more effectively.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -460,22 +460,22 @@ export const softwareArchitectureRoadmap = [
       "Trello is a visual project management tool that uses boards, lists, and cards to help teams and individuals organize tasks and projects. It's known for its simplicity and flexibility.",
     details: [
       {
-        Topic: "Trello Official Website",
-        Description:
+        topic: "Trello Official Website",
+        description:
           "Visit the official Trello website to sign up, explore features, and access resources.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Trello Guides",
-        Description:
+        topic: "Trello Guides",
+        description:
           "Trello's official guides to help you get started and make the most of the platform.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Trello Inspiration",
-        Description:
+        topic: "Trello Inspiration",
+        description:
           "Browse Trello boards created by the community for inspiration and use in your projects.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -485,34 +485,34 @@ export const softwareArchitectureRoadmap = [
       "Atlassian offers a suite of collaboration and productivity tools, including Jira, Confluence, and Bitbucket. These tools are widely used by software development teams for project management, documentation, and version control.",
     details: [
       {
-        Topic: "Atlassian Official Website",
-        Description:
+        topic: "Atlassian Official Website",
+        description:
           "Explore Atlassian's suite of tools, including Jira, Confluence, and Bitbucket.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Jira Documentation",
-        Description:
+        topic: "Jira Documentation",
+        description:
           "Official documentation for Jira, a popular project management and issue tracking tool.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Confluence Documentation",
-        Description:
+        topic: "Confluence Documentation",
+        description:
           "Official documentation for Confluence, a collaboration and documentation tool.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Bitbucket Documentation",
-        Description:
+        topic: "Bitbucket Documentation",
+        description:
           "Official documentation for Bitbucket, a Git repository management platform.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Atlassian Community",
-        Description:
+        topic: "Atlassian Community",
+        description:
           "Join the Atlassian Community to connect with other users, ask questions, and share knowledge.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -522,40 +522,40 @@ export const softwareArchitectureRoadmap = [
       "Explore various software architectures used in computer science and software engineering.",
     details: [
       {
-        Topic: "Serverless Computing",
-        Description:
+        topic: "Serverless Computing",
+        description:
           "An introduction to serverless computing, its benefits, and use cases.",
-        Resource: "100-serverless.md",
+        resource: "100-serverless.md",
       },
       {
-        Topic: "Microservices Architecture",
-        Description:
+        topic: "Microservices Architecture",
+        description:
           "An overview of microservices architecture, its principles, and advantages.",
-        Resource: "101-microservices.md",
+        resource: "101-microservices.md",
       },
       {
-        Topic: "Client-Server Architecture",
-        Description:
+        topic: "Client-Server Architecture",
+        description:
           "A detailed explanation of client-server architecture, its components, and communication.",
-        Resource: "102-client-server-architecture.md",
+        resource: "102-client-server-architecture.md",
       },
       {
-        Topic: "Layered Architecture",
-        Description:
+        topic: "Layered Architecture",
+        description:
           "An exploration of layered software architecture, its benefits, and common use cases.",
-        Resource: "103-layered-architecture.md",
+        resource: "103-layered-architecture.md",
       },
       {
-        Topic: "Distributed Systems",
-        Description:
+        topic: "Distributed Systems",
+        description:
           "An introductory guide to distributed systems, their challenges, and advantages.",
-        Resource: "104-distributed-systems.md",
+        resource: "104-distributed-systems.md",
       },
       {
-        Topic: "Service-Oriented Architecture",
-        Description:
+        topic: "Service-Oriented Architecture",
+        description:
           "An overview of service-oriented architecture, its principles, and benefits.",
-        Resource: "105-service-oriented.md",
+        resource: "105-service-oriented.md",
       },
     ],
   },
@@ -566,28 +566,28 @@ export const softwareArchitectureRoadmap = [
       "Explore various aspects of computer security and strategies for protecting data and systems.",
     details: [
       {
-        Topic: "Hashing Algorithms",
-        Description:
+        topic: "Hashing Algorithms",
+        description:
           "An overview of hashing algorithms, their uses in security, and examples of common hashing functions.",
-        Resource: "100-hashing-algorithms.md",
+        resource: "100-hashing-algorithms.md",
       },
       {
-        Topic: "Public Key Infrastructure (PKI)",
-        Description:
+        topic: "Public Key Infrastructure (PKI)",
+        description:
           "An explanation of PKI, its components, and how it's used to secure communications and authentication.",
-        Resource: "101-pki.md",
+        resource: "101-pki.md",
       },
       {
-        Topic: "OWASP (Open Web Application Security Project)",
-        Description:
+        topic: "OWASP (Open Web Application Security Project)",
+        description:
           "An introduction to OWASP and its mission to improve the security of software.",
-        Resource: "102-owasp.md",
+        resource: "102-owasp.md",
       },
       {
-        Topic: "Authentication Strategies",
-        Description:
+        topic: "Authentication Strategies",
+        description:
           "Different strategies and techniques for authentication in computer security.",
-        Resource: "103-auth-strategies.md",
+        resource: "103-auth-strategies.md",
       },
     ],
   },
@@ -598,22 +598,22 @@ export const softwareArchitectureRoadmap = [
       "Explore tools and techniques for working with data, including big data processing and data warehousing.",
     details: [
       {
-        Topic: "Apache Spark",
-        Description:
+        topic: "Apache Spark",
+        description:
           "An introduction to Apache Spark, a powerful data processing framework for big data analytics.",
-        Resource: "100-apache-spark.md",
+        resource: "100-apache-spark.md",
       },
       {
-        Topic: "Hadoop",
-        Description:
+        topic: "Hadoop",
+        description:
           "An overview of Hadoop, a framework for distributed storage and processing of large datasets.",
-        Resource: "101-hadoop.md",
+        resource: "101-hadoop.md",
       },
       {
-        Topic: "Data Warehouses Principles",
-        Description:
+        topic: "Data Warehouses Principles",
+        description:
           "Principles and concepts of data warehousing, including data modeling and architecture.",
-        Resource: "102-datawarehouses-principles.md",
+        resource: "102-datawarehouses-principles.md",
       },
     ],
   },
@@ -624,28 +624,28 @@ export const softwareArchitectureRoadmap = [
       "Learn about analytics techniques, tools, and databases for extracting insights from data.",
     details: [
       {
-        Topic: "Hadoop, Spark, and MapReduce",
-        Description:
+        topic: "Hadoop, Spark, and MapReduce",
+        description:
           "Understanding the relationship between Hadoop, Spark, and the MapReduce programming model for big data processing.",
-        Resource: "100-hadoop-spark-mapreduce.md",
+        resource: "100-hadoop-spark-mapreduce.md",
       },
       {
-        Topic: "ETL in Data Warehouses",
-        Description:
+        topic: "ETL in Data Warehouses",
+        description:
           "Exploring Extract, Transform, Load (ETL) processes in data warehousing for data integration.",
-        Resource: "101-etl-datawarehouses.md",
+        resource: "101-etl-datawarehouses.md",
       },
       {
-        Topic: "SQL Databases",
-        Description:
+        topic: "SQL Databases",
+        description:
           "An overview of SQL databases and their role in data storage and retrieval.",
-        Resource: "102-sql-databases.md",
+        resource: "102-sql-databases.md",
       },
       {
-        Topic: "NoSQL Databases",
-        Description:
+        topic: "NoSQL Databases",
+        description:
           "Introduction to NoSQL databases and their advantages for handling unstructured and semi-structured data.",
-        Resource: "103-nosql-databases.md",
+        resource: "103-nosql-databases.md",
       },
     ],
   },
@@ -656,40 +656,40 @@ export const softwareArchitectureRoadmap = [
       "Explore various techniques and technologies for building APIs and integrating systems.",
     details: [
       {
-        Topic: "gRPC",
-        Description:
+        topic: "gRPC",
+        description:
           "An introduction to gRPC, a high-performance, language-agnostic remote procedure call (RPC) framework.",
-        Resource: "100-grpc.md",
+        resource: "100-grpc.md",
       },
       {
-        Topic: "ESB and SOAP",
-        Description:
+        topic: "ESB and SOAP",
+        description:
           "An overview of Enterprise Service Bus (ESB) and SOAP (Simple Object Access Protocol) for web services.",
-        Resource: "101-esb-soap.md",
+        resource: "101-esb-soap.md",
       },
       {
-        Topic: "GraphQL",
-        Description:
+        topic: "GraphQL",
+        description:
           "Understanding GraphQL, a query language for APIs, and how it enables efficient data retrieval.",
-        Resource: "102-graphql.md",
+        resource: "102-graphql.md",
       },
       {
-        Topic: "RESTful APIs",
-        Description:
+        topic: "RESTful APIs",
+        description:
           "An explanation of Representational State Transfer (REST) principles and how to design RESTful APIs.",
-        Resource: "103-rest.md",
+        resource: "103-rest.md",
       },
       {
-        Topic: "BPM and BPEL",
-        Description:
+        topic: "BPM and BPEL",
+        description:
           "An introduction to Business Process Management (BPM) and Business Process Execution Language (BPEL).",
-        Resource: "104-bpm-bpel.md",
+        resource: "104-bpm-bpel.md",
       },
       {
-        Topic: "Messaging Queues",
-        Description:
+        topic: "Messaging Queues",
+        description:
           "Exploring messaging queues and their role in asynchronous communication between systems.",
-        Resource: "105-messaging-queues.md",
+        resource: "105-messaging-queues.md",
       },
     ],
   },
@@ -700,40 +700,40 @@ export const softwareArchitectureRoadmap = [
       "Explore various aspects of web and mobile development, including frameworks, standards, and progressive web apps (PWAs).",
     details: [
       {
-        Topic: "Reactive and Functional Programming",
-        Description:
+        topic: "Reactive and Functional Programming",
+        description:
           "An introduction to reactive and functional programming concepts in web and mobile development.",
-        Resource: "100-reactive-functional-programming.md",
+        resource: "100-reactive-functional-programming.md",
       },
       {
-        Topic: "React, Vue, and Angular",
-        Description:
+        topic: "React, Vue, and Angular",
+        description:
           "A comparison of popular JavaScript frameworks: React, Vue.js, and Angular.",
-        Resource: "101-react-vue-angular.md",
+        resource: "101-react-vue-angular.md",
       },
       {
-        Topic: "SPA, SSR, and SSG",
-        Description:
+        topic: "SPA, SSR, and SSG",
+        description:
           "Understanding Single Page Applications (SPAs), Server-Side Rendering (SSR), and Static Site Generation (SSG) in web development.",
-        Resource: "102-spa-ssr-ssg.md",
+        resource: "102-spa-ssr-ssg.md",
       },
       {
-        Topic: "Progressive Web Apps (PWA)",
-        Description:
+        topic: "Progressive Web Apps (PWA)",
+        description:
           "An overview of Progressive Web Apps and their capabilities for web and mobile applications.",
-        Resource: "103-pwa.md",
+        resource: "103-pwa.md",
       },
       {
-        Topic: "Micro Frontends",
-        Description:
+        topic: "Micro Frontends",
+        description:
           "Exploring the concept of micro frontends in web development and their advantages.",
-        Resource: "104-microfrontends.md",
+        resource: "104-microfrontends.md",
       },
       {
-        Topic: "W3C and WHATWG Standards",
-        Description:
+        topic: "W3C and WHATWG Standards",
+        description:
           "An overview of web standards organizations, W3C and WHATWG, and their contributions to web development.",
-        Resource: "105-w3c-and-whatwg-standards.md",
+        resource: "105-w3c-and-whatwg-standards.md",
       },
     ],
   },
@@ -744,28 +744,28 @@ export const softwareArchitectureRoadmap = [
       "Explore various architectural frameworks and methodologies used in software and enterprise architecture.",
     details: [
       {
-        Topic: "BABOK (Business Analysis Body of Knowledge)",
-        Description:
+        topic: "BABOK (Business Analysis Body of Knowledge)",
+        description:
           "An introduction to BABOK, a guide to business analysis practices and knowledge areas.",
-        Resource: "100-babok.md",
+        resource: "100-babok.md",
       },
       {
-        Topic: "IAF (Integrated Architecture Framework)",
-        Description:
+        topic: "IAF (Integrated Architecture Framework)",
+        description:
           "An overview of the Integrated Architecture Framework (IAF) and its role in enterprise architecture.",
-        Resource: "101-iaf.md",
+        resource: "101-iaf.md",
       },
       {
-        Topic: "UML (Unified Modeling Language)",
-        Description:
+        topic: "UML (Unified Modeling Language)",
+        description:
           "Understanding the Unified Modeling Language (UML) and its use in software modeling and design.",
-        Resource: "101-uml.md",
+        resource: "101-uml.md",
       },
       {
-        Topic: "TOGAF (The Open Group Architecture Framework)",
-        Description:
+        topic: "TOGAF (The Open Group Architecture Framework)",
+        description:
           "An introduction to TOGAF, an enterprise architecture methodology and framework.",
-        Resource: "102-togaf.md",
+        resource: "102-togaf.md",
       },
     ],
   },
@@ -776,28 +776,28 @@ export const softwareArchitectureRoadmap = [
       "Explore management-related topics, including certifications and agile methodologies.",
     details: [
       {
-        Topic: "Certifications",
-        Description:
+        topic: "Certifications",
+        description:
           "Information about various management-related certifications, including PMI, ITIL, PRINCE2, and RUP.",
-        Resource: "100-pmi-itil-prince2-rup.md",
+        resource: "100-pmi-itil-prince2-rup.md",
       },
       {
-        Topic: "Agile and Scrum",
-        Description:
+        topic: "Agile and Scrum",
+        description:
           "An overview of Agile methodologies and the Scrum framework for project management.",
-        Resource: "101-agile-scrum.md",
+        resource: "101-agile-scrum.md",
       },
       {
-        Topic: "Large Scale Scrum (LeSS)",
-        Description:
+        topic: "Large Scale Scrum (LeSS)",
+        description:
           "An introduction to Large Scale Scrum (LeSS), an Agile framework for scaling Scrum to large organizations.",
-        Resource: "100-less.md",
+        resource: "100-less.md",
       },
       {
-        Topic: "SAFe (Scaled Agile Framework)",
-        Description:
+        topic: "SAFe (Scaled Agile Framework)",
+        description:
           "Information about SAFe, a framework for scaling Agile and Lean practices in large enterprises.",
-        Resource: "101-safe.md",
+        resource: "101-safe.md",
       },
     ],
   },
@@ -808,28 +808,28 @@ export const softwareArchitectureRoadmap = [
       "Explore various networking topics, including models, protocols, proxies, and firewalls.",
     details: [
       {
-        Topic: "OSI and TCP/IP Models",
-        Description:
+        topic: "OSI and TCP/IP Models",
+        description:
           "An overview of the OSI (Open Systems Interconnection) and TCP/IP models, which describe network communication processes.",
-        Resource: "100-osi-tcp-ip-model.md",
+        resource: "100-osi-tcp-ip-model.md",
       },
       {
-        Topic: "HTTP and HTTPS",
-        Description:
+        topic: "HTTP and HTTPS",
+        description:
           "An explanation of the HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) protocols used for web communication.",
-        Resource: "101-http-https.md",
+        resource: "101-http-https.md",
       },
       {
-        Topic: "Proxies",
-        Description:
+        topic: "Proxies",
+        description:
           "Understanding proxy servers and their role in network communication, security, and privacy.",
-        Resource: "102-proxies.md",
+        resource: "102-proxies.md",
       },
       {
-        Topic: "Firewalls",
-        Description:
+        topic: "Firewalls",
+        description:
           "An introduction to firewalls, network security devices that monitor and filter network traffic.",
-        Resource: "103-firewalls.md",
+        resource: "103-firewalls.md",
       },
     ],
   },
@@ -840,52 +840,52 @@ export const softwareArchitectureRoadmap = [
       "Explore various aspects of operations, including infrastructure as code, cloud providers, serverless computing, operating systems, service mesh, CI/CD, containers, and cloud design patterns.",
     details: [
       {
-        Topic: "Infrastructure as Code",
-        Description:
+        topic: "Infrastructure as Code",
+        description:
           "An introduction to infrastructure as code (IAC) and its use in automating infrastructure provisioning.",
-        Resource: "100-infrastructure-as-code.md",
+        resource: "100-infrastructure-as-code.md",
       },
       {
-        Topic: "Cloud Providers",
-        Description:
+        topic: "Cloud Providers",
+        description:
           "Information about various cloud providers and their services, including AWS, Azure, and Google Cloud.",
-        Resource: "101-cloud-providers.md",
+        resource: "101-cloud-providers.md",
       },
       {
-        Topic: "Serverless Concepts",
-        Description:
+        topic: "Serverless Concepts",
+        description:
           "Exploring concepts and principles of serverless computing, a cloud computing model.",
-        Resource: "102-serverless-concepts.md",
+        resource: "102-serverless-concepts.md",
       },
       {
-        Topic: "Linux and Unix",
-        Description:
+        topic: "Linux and Unix",
+        description:
           "An overview of Linux and Unix operating systems, including their features and usage.",
-        Resource: "103-linux-unix.md",
+        resource: "103-linux-unix.md",
       },
       {
-        Topic: "Service Mesh",
-        Description:
+        topic: "Service Mesh",
+        description:
           "Understanding service mesh architecture and its role in managing microservices communication.",
-        Resource: "104-service-mesh.md",
+        resource: "104-service-mesh.md",
       },
       {
-        Topic: "CI/CD (Continuous Integration and Continuous Deployment)",
-        Description:
+        topic: "CI/CD (Continuous Integration and Continuous Deployment)",
+        description:
           "An explanation of CI/CD practices and tools for automating software development and deployment.",
-        Resource: "105-ci-cd.md",
+        resource: "105-ci-cd.md",
       },
       {
-        Topic: "Containers",
-        Description:
+        topic: "Containers",
+        description:
           "An introduction to containerization technology and popular container platforms like Docker.",
-        Resource: "106-containers.md",
+        resource: "106-containers.md",
       },
       {
-        Topic: "Cloud Design Patterns",
-        Description:
+        topic: "Cloud Design Patterns",
+        description:
           "Exploring design patterns for building scalable and reliable cloud-based systems.",
-        Resource: "107-cloud-design-patterns.md",
+        resource: "107-cloud-design-patterns.md",
       },
     ],
   },
@@ -896,34 +896,34 @@ export const softwareArchitectureRoadmap = [
       "Explore various enterprise software solutions and platforms used for business operations and management.",
     details: [
       {
-        Topic: "Microsoft Dynamics",
-        Description:
+        topic: "Microsoft Dynamics",
+        description:
           "Information about Microsoft Dynamics, a suite of enterprise resource planning (ERP) and customer relationship management (CRM) software applications.",
-        Resource: "100-ms-dynamics.md",
+        resource: "100-ms-dynamics.md",
       },
       {
-        Topic: "SAP ERP, HANA, and Business Objects",
-        Description:
+        topic: "SAP ERP, HANA, and Business Objects",
+        description:
           "An overview of SAP's enterprise software offerings, including SAP ERP, HANA, and Business Objects.",
-        Resource: "101-sap-epr-hana-business-objects.md",
+        resource: "101-sap-epr-hana-business-objects.md",
       },
       {
-        Topic: "EMC Document Management Systems (DMS)",
-        Description:
+        topic: "EMC Document Management Systems (DMS)",
+        description:
           "Exploring EMC Document Management Systems (DMS) for managing and organizing documents and data.",
-        Resource: "102-emc-dms.md",
+        resource: "102-emc-dms.md",
       },
       {
-        Topic: "IBM Business Process Management (BPM)",
-        Description:
+        topic: "IBM Business Process Management (BPM)",
+        description:
           "An introduction to IBM's Business Process Management (BPM) solutions for optimizing business processes.",
-        Resource: "103-ibm-bpm.md",
+        resource: "103-ibm-bpm.md",
       },
       {
-        Topic: "Salesforce",
-        Description:
+        topic: "Salesforce",
+        description:
           "Information about Salesforce, a cloud-based customer relationship management (CRM) platform.",
-        Resource: "104-salesforce.md",
+        resource: "104-salesforce.md",
       },
     ],
   },
@@ -934,70 +934,70 @@ export const softwareArchitectureRoadmap = [
       "In the realm of software development, various responsibilities and tasks fall under the purview of software architects and developers to ensure the successful creation and maintenance of software systems.",
     details: [
       {
-        Topic: "Define and Decide Development Technology and Platform",
-        Description:
+        topic: "Define and Decide Development Technology and Platform",
+        description:
           "Selecting the appropriate technology stack and platform for a software project based on its requirements and goals.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Define Development Standards",
-        Description:
+        topic: "Define Development Standards",
+        description:
           "Establishing coding standards, tools, review processes, and test approaches to maintain code quality and consistency.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Support Identifying Business Requirements",
-        Description:
+        topic: "Support Identifying Business Requirements",
+        description:
           "Assisting in identifying and comprehending business requirements to align software solutions with business needs.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Design Systems and Make Decisions",
-        Description:
+        topic: "Design Systems and Make Decisions",
+        description:
           "Creating system designs and making architectural decisions based on project requirements and constraints.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Document and Communicate Architectural Definitions",
-        Description:
+        topic: "Document and Communicate Architectural Definitions",
+        description:
           "Creating documentation to convey architectural definitions, designs, and decisions to stakeholders.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Check and Review Architecture and Code",
-        Description:
+        topic: "Check and Review Architecture and Code",
+        description:
           "Ensuring that architectural patterns and coding standards are followed by conducting code reviews and architecture assessments.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Collaborate with Other Architects",
-        Description:
+        topic: "Collaborate with Other Architects",
+        description:
           "Working in coordination with other architects and stakeholders to ensure architectural alignment across the project.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Coach and Consult Developers",
-        Description:
+        topic: "Coach and Consult Developers",
+        description:
           "Providing guidance and consultation to developers to help them implement the architecture effectively.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Monitor Implementation Adherence",
-        Description:
+        topic: "Monitor Implementation Adherence",
+        description:
           "Ensuring that the architecture is adhered to during the implementation phase of the project.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Play a Key Role in Code Review",
-        Description:
+        topic: "Play a Key Role in Code Review",
+        description:
           "Taking an active role in reviewing code to verify its quality and alignment with architectural guidelines.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Detail Out and Refine Higher-Level Design",
-        Description:
+        topic: "Detail Out and Refine Higher-Level Design",
+        description:
           "Elaborating higher-level architectural designs into detailed lower-level designs for implementation.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },
@@ -1008,52 +1008,52 @@ export const softwareArchitectureRoadmap = [
       "To excel in the field of software development and project management, the following skills and qualifications are essential:",
     details: [
       {
-        Topic: "Experience in Software Development",
-        Description:
+        topic: "Experience in Software Development",
+        description:
           "Proven experience in designing, developing, and maintaining software applications.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Experience in Project Management",
-        Description:
+        topic: "Experience in Project Management",
+        description:
           "Demonstrated ability to plan, execute, and oversee projects, ensuring they are completed on time and within budget.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Knowledge of Programming Languages",
-        Description:
+        topic: "Knowledge of Programming Languages",
+        description:
           "Proficiency in one or more programming languages, such as Java, Python, JavaScript, Ruby, Rust, and C.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Knowledge of Development Platforms",
-        Description:
+        topic: "Knowledge of Development Platforms",
+        description:
           "Familiarity with various development platforms, tools, and frameworks for building software applications.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Understanding of Web Applications and Cybersecurity",
-        Description:
+        topic: "Understanding of Web Applications and Cybersecurity",
+        description:
           "Comprehensive knowledge of web application development and cybersecurity principles.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Code Analysis Proficiency",
-        Description:
+        topic: "Code Analysis Proficiency",
+        description:
           "Ability to analyze code for issues, errors, and optimization opportunities.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Experience in Database Platforms",
-        Description:
+        topic: "Experience in Database Platforms",
+        description:
           "Hands-on experience with database platforms for data storage and retrieval.",
-        Resource: "#",
+        resource: "#",
       },
       {
-        Topic: "Operations and DevOps Skills",
-        Description:
+        topic: "Operations and DevOps Skills",
+        description:
           "Proficiency in operations management and DevOps practices to streamline software development processes.",
-        Resource: "#",
+        resource: "#",
       },
     ],
   },

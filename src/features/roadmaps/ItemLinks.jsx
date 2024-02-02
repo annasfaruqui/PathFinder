@@ -109,16 +109,16 @@ function ItemLinks({ roadmap, subCategory }) {
 }
 
 function ItemLink({ detail }) {
-  const { Topic: topic, Description: desc, Resource: res } = detail;
+  const { topic, description, resource } = detail;
 
   return (
     <Div>
       <Topic>{topic}</Topic>
-      <Description>{desc}</Description>
+      <Description>{description}</Description>
       <P>
         Read more at: &nbsp;
-        <A href={res} target="_blank">
-          {res}
+        <A href={resource} target="_blank">
+          {resource}
         </A>
       </P>
     </Div>

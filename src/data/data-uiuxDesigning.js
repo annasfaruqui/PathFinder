@@ -5,28 +5,28 @@ export const uiuxDesigningRoadmap = [
       "Frameworks provide structured approaches and models for understanding and solving complex problems. Here are some frameworks to explore:",
     details: [
       {
-        Topic: "BJ Fogg Behavior Model",
-        Description:
+        topic: "BJ Fogg Behavior Model",
+        description:
           "The BJ Fogg Behavior Model is a framework developed by Dr. BJ Fogg...",
-        Resource: "https://www.example.com/bj-fogg-behavior-model",
+        resource: "https://www.example.com/bj-fogg-behavior-model",
       },
       {
-        Topic: "Stephen Wendell Create Action Funnel",
-        Description:
+        topic: "Stephen Wendell Create Action Funnel",
+        description:
           "The Stephen Wendell Create Action Funnel is a framework developed for...",
-        Resource:
+        resource:
           "https://www.example.com/stephen-wendell-create-action-funnel",
       },
       {
-        Topic: "Spectrum of Thinking Interventions",
-        Description:
+        topic: "Spectrum of Thinking Interventions",
+        description:
           "The Spectrum of Thinking Interventions is a framework used in cognitive psychology...",
-        Resource: "https://www.example.com/spectrum-of-thinking-interventions",
+        resource: "https://www.example.com/spectrum-of-thinking-interventions",
       },
       {
-        Topic: "Dual Process Theory",
-        Description: "Dual Process Theory is a framework in psychology that...",
-        Resource: "https://www.example.com/dual-process-theory",
+        topic: "Dual Process Theory",
+        description: "Dual Process Theory is a framework in psychology that...",
+        resource: "https://www.example.com/dual-process-theory",
       },
     ],
   },
@@ -36,34 +36,34 @@ export const uiuxDesigningRoadmap = [
       "Behavior change strategies involve techniques and approaches used to influence and modify human behavior. Here are subtopics related to behavior change strategies:",
     details: [
       {
-        Topic: "Changing User Behavior",
-        Description:
+        topic: "Changing User Behavior",
+        description:
           "Strategies and methods for effectively changing user behavior in various contexts...",
-        Resource: "https://www.example.com/changing-user-behavior",
+        resource: "https://www.example.com/changing-user-behavior",
       },
       {
-        Topic: "Cheating Behavior",
-        Description:
+        topic: "Cheating Behavior",
+        description:
           "Understanding and addressing cheating behavior through behavior change techniques...",
-        Resource: "https://www.example.com/cheating-behavior",
+        resource: "https://www.example.com/cheating-behavior",
       },
       {
-        Topic: "Making or Changing Habits",
-        Description:
+        topic: "Making or Changing Habits",
+        description:
           "Exploring strategies for creating and altering habits in individuals...",
-        Resource: "https://www.example.com/making-or-changing-habits",
+        resource: "https://www.example.com/making-or-changing-habits",
       },
       {
-        Topic: "Classifying Behavior",
-        Description:
+        topic: "Classifying Behavior",
+        description:
           "Methods for categorizing and classifying various types of behavior for analysis and intervention...",
-        Resource: "https://www.example.com/classifying-behavior",
+        resource: "https://www.example.com/classifying-behavior",
       },
       {
-        Topic: "Making Users Addicted",
-        Description:
+        topic: "Making Users Addicted",
+        description:
           "Ethical considerations and strategies related to creating addictive user experiences...",
-        Resource: "https://www.example.com/making-users-addicted",
+        resource: "https://www.example.com/making-users-addicted",
       },
     ],
   },
@@ -73,28 +73,28 @@ export const uiuxDesigningRoadmap = [
       "Understanding the product is a crucial step in product development. It involves gaining clarity on various aspects of the product. Here are subtopics related to understanding the product:",
     details: [
       {
-        Topic: "Clarify Product",
-        Description:
+        topic: "Clarify Product",
+        description:
           "Strategies and techniques for clarifying the product's purpose, features, and value proposition...",
-        Resource: "https://www.example.com/clarify-product",
+        resource: "https://www.example.com/clarify-product",
       },
       {
-        Topic: "Define Target Users",
-        Description:
+        topic: "Define Target Users",
+        description:
           "Methods for identifying and defining the target users or audience for the product...",
-        Resource: "https://www.example.com/define-target-users",
+        resource: "https://www.example.com/define-target-users",
       },
       {
-        Topic: "Existing Business Model",
-        Description:
+        topic: "Existing Business Model",
+        description:
           "Exploration of the existing business model if the product is part of an established business...",
-        Resource: "https://www.example.com/existing-business-model",
+        resource: "https://www.example.com/existing-business-model",
       },
       {
-        Topic: "New Business Model",
-        Description:
+        topic: "New Business Model",
+        description:
           "Strategies for developing a new business model or revenue strategy for the product...",
-        Resource: "https://www.example.com/new-business-model",
+        resource: "https://www.example.com/new-business-model",
       },
     ],
   },
@@ -104,22 +104,22 @@ export const uiuxDesigningRoadmap = [
       "Conceptual design involves creating a high-level conceptual model and plan for a product or project. Here are subtopics related to conceptual design:",
     details: [
       {
-        Topic: "Create Product Backlog",
-        Description:
+        topic: "Create Product Backlog",
+        description:
           "The process of creating a product backlog that outlines the high-level features and requirements...",
-        Resource: "https://www.example.com/create-product-backlog",
+        resource: "https://www.example.com/create-product-backlog",
       },
       {
-        Topic: "Deliverables",
-        Description:
+        topic: "Deliverables",
+        description:
           "Identifying and defining the key deliverables that are part of the conceptual design phase...",
-        Resource: "https://www.example.com/deliverables",
+        resource: "https://www.example.com/deliverables",
       },
       {
-        Topic: "Things to Look Out For",
-        Description:
+        topic: "Things to Look Out For",
+        description:
           "Common considerations and potential challenges to be aware of during conceptual design...",
-        Resource: "https://www.example.com/things-to-look-out-for",
+        resource: "https://www.example.com/things-to-look-out-for",
       },
     ],
   },
@@ -129,22 +129,22 @@ export const uiuxDesigningRoadmap = [
       "Prototyping is a critical phase in product development that involves creating preliminary versions of a product or system. Here are subtopics related to prototyping:",
     details: [
       {
-        Topic: "UX Patterns",
-        Description:
+        topic: "UX Patterns",
+        description:
           "Exploring common user experience (UX) patterns and how to incorporate them into prototypes...",
-        Resource: "https://www.example.com/ux-patterns",
+        resource: "https://www.example.com/ux-patterns",
       },
       {
-        Topic: "Wireframing",
-        Description:
+        topic: "Wireframing",
+        description:
           "The process of wireframing as a key step in creating prototypes and design mockups...",
-        Resource: "https://www.example.com/wireframing",
+        resource: "https://www.example.com/wireframing",
       },
       {
-        Topic: "Good Layout Rules",
-        Description:
+        topic: "Good Layout Rules",
+        description:
           "Guidelines and best practices for creating effective layouts in prototypes...",
-        Resource: "https://www.example.com/good-layout-rules",
+        resource: "https://www.example.com/good-layout-rules",
       },
     ],
   },
@@ -154,35 +154,35 @@ export const uiuxDesigningRoadmap = [
       "User experience (UX) best practices are guidelines and principles for creating user-friendly and effective products. Here are subtopics related to UX best practices:",
     details: [
       {
-        Topic: "Create Urgency",
-        Description:
+        topic: "Create Urgency",
+        description:
           "Techniques and strategies for creating a sense of urgency in the user experience...",
-        Resource: "https://www.example.com/create-urgency",
+        resource: "https://www.example.com/create-urgency",
       },
       {
-        Topic: "Getting Attention",
-        Description:
+        topic: "Getting Attention",
+        description:
           "Best practices for grabbing and maintaining the user's attention in digital products...",
-        Resource: "https://www.example.com/getting-attention",
+        resource: "https://www.example.com/getting-attention",
       },
       {
-        Topic: "Getting Favorable Conscious Evaluation",
-        Description:
+        topic: "Getting Favorable Conscious Evaluation",
+        description:
           "Methods for ensuring that users consciously evaluate and perceive the product positively...",
-        Resource:
+        resource:
           "https://www.example.com/getting-favorable-conscious-evaluation",
       },
       {
-        Topic: "Make It Easy for Users",
-        Description:
+        topic: "Make It Easy for Users",
+        description:
           "Guidelines for simplifying and streamlining user interactions to make tasks easy to accomplish...",
-        Resource: "https://www.example.com/make-it-easy-for-users",
+        resource: "https://www.example.com/make-it-easy-for-users",
       },
       {
-        Topic: "Positive Intuitive Reaction",
-        Description:
+        topic: "Positive Intuitive Reaction",
+        description:
           "Strategies for creating a positive and intuitive initial user reaction to the product...",
-        Resource: "https://www.example.com/positive-intuitive-reaction",
+        resource: "https://www.example.com/positive-intuitive-reaction",
       },
     ],
   },
@@ -192,16 +192,16 @@ export const uiuxDesigningRoadmap = [
       "Measuring the impact of design and product decisions is crucial for assessing success and making improvements. Here are subtopics related to measuring the impact:",
     details: [
       {
-        Topic: "Testing",
-        Description:
+        topic: "Testing",
+        description:
           "Various testing methods and approaches for evaluating the impact of design and product changes...",
-        Resource: "https://www.example.com/testing",
+        resource: "https://www.example.com/testing",
       },
       {
-        Topic: "Gather Lessons, Prioritize, Integrate",
-        Description:
+        topic: "Gather Lessons, Prioritize, Integrate",
+        description:
           "A structured approach to gathering lessons from user feedback, prioritizing improvements, and integrating changes...",
-        Resource: "https://www.example.com/gather-lessons-prioritize-integrate",
+        resource: "https://www.example.com/gather-lessons-prioritize-integrate",
       },
     ],
   },
