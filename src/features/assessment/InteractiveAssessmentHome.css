@@ -1,0 +1,36 @@
+.recommendations {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.path-heading {
+  font-size: 4.8rem;
+  font-weight: 400;
+  text-align: center;
+  color: var(--color-grey-500);
+}
+
+.path {
+  margin: 2rem auto;
+}
+
+.path span {
+  background-color: var(--color-grey-50);
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius-md);
+  font-style: italic;
+  font-size: 4.2rem;
+  font-weight: 400;
+  color: var(--color-grey-700);
+}
+
+.btn-box {
+  margin-top: auto;
+  align-self: end;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}

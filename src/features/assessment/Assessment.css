@@ -1,0 +1,27 @@
+.question {
+  font-size: 2.8rem;
+  font-weight: 300;
+  margin-bottom: 4rem;
+}
+
+.options {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  flex-grow: 1;
+}
+
+.options li {
+  cursor: pointer;
+  font-size: 1.8rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: var(--border-radius-sm);
+  background-color: var(--color-grey-50);
+  transition: background-color 0.3s ease;
+}
+
+.options li:hover {
+  background-color: var(--color-grey-200);
+}
