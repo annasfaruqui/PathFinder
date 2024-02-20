@@ -27,7 +27,7 @@ function TestCredentials() {
   return (
     <StyledTestCredentials>
       <p>
-        Test Email: <span>demo@pathfinder.com</span>
+        Test Email: <span>annas@pathfinder.com</span>
       </p>
       <p>
         Test Password: <span>demo1234</span>

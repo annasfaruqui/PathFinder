@@ -696,3 +696,7 @@ const frontendRoadmap = [
 const lengthFrontend = frontendRoadmap.length;
 
 export { frontendRoadmap, lengthFrontend };
+
+const details = frontendRoadmap.map((el) => el.details);
+
+console.log(details);
